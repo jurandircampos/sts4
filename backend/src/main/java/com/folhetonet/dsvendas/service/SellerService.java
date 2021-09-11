@@ -7,7 +7,6 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 import com.folhetonet.dsvendas.dto.SellerDTO;
-import com.folhetonet.dsvendas.entities.Sale;
 import com.folhetonet.dsvendas.entities.Seller;
 import com.folhetonet.dsvendas.repositories.SellerRepository;
 
